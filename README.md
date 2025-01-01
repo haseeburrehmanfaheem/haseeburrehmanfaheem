@@ -1,4 +1,4 @@
-# Hi 👋, I'm Haseeb:
+# Hi 👋, I'm Haseeb
 I’m a Master’s student in Computer Science at the University of Waterloo, specializing in systems security and software engineering. Currently, I’m part of the CrySP Lab, where I focus on enhancing Android API security using static analysis, large language models, and probabilistic inference.
 
 Previously, I’ve contributed to open-source projects like SPADE, optimizing provenance graph traversal, and developed tools to identify and mitigate Android API vulnerabilities, acknowledged by vendors like Vivo and Samsung.
