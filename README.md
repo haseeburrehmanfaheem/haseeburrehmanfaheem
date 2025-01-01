@@ -3,12 +3,9 @@ I’m a Master’s student in Computer Science at the University of Waterloo, sp
 
 Previously, I’ve contributed to open-source projects like SPADE, optimizing provenance graph traversal, and developed tools to identify and mitigate Android API vulnerabilities, acknowledged by vendors like Vivo and Samsung.
 
----
-
 👨‍💻 Check out my [Portfolio](https://cs.uwaterloo.ca/~hfaheem/) to explore my work  
 📄 Learn more about my [Professional Experience](https://cs.uwaterloo.ca/~hfaheem/assets/Resume_Haseeb.pdf)  
 
----
 Always open to discussing technology, software development, or new ideas!
 
 ## 🌐 Socials:
